@@ -1,0 +1,12 @@
+3. RETRIEVE THIS ROUND'S RESULTS
+
+This screen is similar to the schedule creating screen. You do not have to determine each participants position manually; you can easily do so automatically by using this screen.
+
+When you have selected the item category, and the round, you can click the Blue Retrieve results button. 
+After it checks your input, the results will be retrieved from the database. It can be seen in the big rich edit. The results, although formatted simply, contains all the information needed. It says for which item category and round the results is for, then it shows neatly formatted headings
+Underneath the headings, the participants position, the item code, participant, score, and item name for each item will be printed, from highest score to lowest score. It is important to note that you can only retrieve results for the latest round.
+You will also be prompted to print the results using your computers default computer. It is recommended to do so and put these results up around the school. Participants cannot see what position they are, so these results will be the only way they can know. All the results are stored in the program files. The name is in the following format:
+ItemCategory + Round number stored in the results folder. You can go there to print the schedule again if you wish. 
+
+After you created and printed the results, you can eliminate participants.
+

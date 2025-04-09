@@ -1,0 +1,24 @@
+1. CREATE A SCHEDULE
+
+This easy-to-use screen allows you to create a schedule without doing anything manually. 
+Before you start to create a schedule, it is recommended to click the red No button to ensure that no more participants can enter after the schedule is created.
+
+Select item:
+Select the item you want to create a schedule for in the combo box. The program is intelligent and will automatically select the round by using the still-participating items in the database.
+
+Break times:
+As the judge and organisers need break times, this feature has been added. Select if you want to have teatime (at or right after 11:00, lasts for 20 minutes), lunchtime (at or right after 13:00, lasts for 30 minutes), and coffeetime (at or right after 15:00, lasts for 15 minutes). 
+The program will insert these into the schedule if the relevant checkbox has been ticked.
+
+Select start time and date:
+This time and date will be saved to the database for each participant so that they can see when they will participate next. 
+When you have entered and selected information in all of the fields, you can click the Blue create button. 
+
+After it checks your input, a schedule will be created. It can be seen in the big rich edit. The schedule, although formatted simply, contains all the information needed. It says for which item category and round it is, on which date and at what time the round starts. Then it shows neatly formatted headings
+Underneath the headings, the time of the item, the item code, participant, duration, and item name for each item will be printed. At the most suitable time, tea, lunch, and coffee will be added if the checkboxes were checked. 
+
+You will also be prompted to Print the schedule using your computers default computer. It is recommended to do so and put these schedules up around the school, and to keep for your own reference. All the schedules are stored in the program files. The name is in the following format:
+ItemCategory + Round number, stored in the schedule folder. You can go there to print the schedule again if you wish. 
+
+You can also recreate a schedule. Beware though, this will override the previous schedule. 
+

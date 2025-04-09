@@ -1,0 +1,27 @@
+SCHEDULE
+For Reading (Round 1)
+Round takes place on: Monday, 10 October 2022, and starts at 10:00
+
+Time	Item Code	Participant	Duration	Item Name
+--------------------------------------------------------------------------------------------------------------------------------------------
+10:00	REA01	Piet Coetzee	9 min	Gone series #1
+10:09	REA02	Wendy Collins	15 min	Paper Town
+10:24	REA03	Amy Cole	9 min	Harry Potter and the Half blood prince
+10:33	REA04	Susan Boyle	11 min	LOTR: Fellowship of the Ring
+10:44	REA05	Cecil Mattos	8 min	A Wrinkle in Time
+10:52	REA06	Beverly McDaniel	15 min	The River
+11:07	---------- Tea ----------	20 min
+11:27	REA07	Douglas Baxley	13 min	Just listen
+11:40	REA08	Barbara Fod	12 min	The Fault in our Stars
+11:52	REA09	Belinda Lee	6 min	The giraffe, the pelly and me
+11:58	REA10	Shawn Wilson	15 min	I know that a caged bird Sings
+12:13	REA11	Lori Watson	10 min	The Hobbit
+12:23	REA12	Floyd Dunlap	10 min	We were liars
+12:33	REA13	Kevin Hendricks	14 min	They Both die at the end
+12:47	REA14	Robert Allen	7 min	The Northern light
+12:54	REA15	Kimberly Stanley	8 min	A New Peace
+13:02	---------- Lunch ----------	30 min
+13:32	REA16	John Smith	7 min	It’s Kind of a funny story
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Total participants: 16

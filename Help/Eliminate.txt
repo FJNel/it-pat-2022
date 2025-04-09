@@ -1,0 +1,11 @@
+4. ELIMINATE PARTICIPANTS
+
+Elimination is used to determine which participants go through to the next round. The action is NOT reversable, and it is therefore important that you ensure that your input is correct.
+To start the elimination process, select the item category in the combo box, and the round in the spin edit. Thereafter you can select how many of the participants will go through to the next round (referred to as [amount selected]). This will be the Top [amount selected] of the results. If you are sure about your input, click the blue Eliminate the rest button.
+Once youve pressed this button, the program will automatically eliminate everyone who isnt in the Top [amount selected]. You will get a message saying how many participants got eliminated, and who has gone through to the next round. 
+
+NEW: If you select that only one participant goes through to the next round, the program will automatically show them that they are the winner of their item. It will also make their Participating field false, meaning that the item categorys rounds are completely over. 
+
+After the winner of the item category has been announced at school you can completely delete all the participants item information, who entered for this category. Simply select the item category using the combo box and click delete. This will delete ALL the item categorys items. It is recommended to only do this a week after the winners are announced to ensure participants can still see their item information.
+Once again, these actions arent reversable and should be treated with great caution!
+

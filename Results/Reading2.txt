@@ -1,0 +1,16 @@
+RESULTS
+For Reading (Round 2)
+
+Pos	Item Code	Participant	Score	Item Name
+--------------------------------------------------------------------------------------------------------------------------------------------
+1	REA05	Cecil Mattos	97%	A Wrinkle in Time
+2	REA11	Lori Watson	91%	The Hobbit
+3	REA08	Barbara Fod	87%	The Fault in our Stars
+4	REA12	Floyd Dunlap	82%	We were liars
+5	REA15	Kimberly Stanley	82%	A New Peace
+6	REA03	Amy Cole	80%	Harry Potter and the Half blood prince
+7	REA06	Beverly McDaniel	79%	The River
+8	REA01	Piet Coetzee	78%	Gone series #1
+9	REA02	Wendy Collins	71%	Paper Town
+10	REA09	Belinda Lee	60%	The giraffe, the pelly and me
+--------------------------------------------------------------------------------------------------------------------------------------------

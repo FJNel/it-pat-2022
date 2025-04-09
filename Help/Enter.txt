@@ -1,0 +1,14 @@
+ENTERING YOUR ITEM: 
+
+If it is your first-time logging in, you will automatically be taken to the Enter your item screen. Here you can enter your item to be stored in the database. You must enter your item so that the organisers can have access to it. 
+
+To enter an item, simply select what category you want to participate in using the provided combo box that has been sorted alphabetically. Then, enter your item name in the relevant line. This can be anything that represents what you will do. After that, use the spin edit component to set your approximate participation duration. This is anywhere from 5 to 15 minutes in length. This will be used when the organisers create schedules to ensure that you have adequate time to perform.
+
+Ensure that you have entered information in all of the components before clicking the blue Enter button, or else you will get an error message preventing you from entering your item.
+If the tournament has already started, you will get an error message saying that it is too late to enter. You will not be able to enter.
+
+As the screen informs you, theres only one item per participant allowed. To re-enter, you must contact an admin to remove your item from the database.
+When you have entered information in all three of the fields, you can click the Enter item blue button. When you click the blue Enter item button, the program will perform multiple checks to ensure the validity of the information you entered. 
+
+After these checks are done, your item info will be stored in the database. You will get a message saying that you have entered successfully. You will be taken to the View item screen automatically. 
+

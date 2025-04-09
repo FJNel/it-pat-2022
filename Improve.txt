@@ -1,0 +1,5 @@
+- Error if wrong round in Result tab selected (done)
+- Change Next button error message to mtInformation (done)
+- Add 'Winner - No more rounds after this' to the winner's comment box (if they are the only person left in the tournament) (done)
+
+Check the elimination code and revert back to old database

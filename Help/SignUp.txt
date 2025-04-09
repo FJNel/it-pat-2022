@@ -1,0 +1,16 @@
+SIGN-UP:
+
+To sign up, click on the blue text below the login button. You will be taken to the sign-up screen.
+Here you can enter your personal information in all the relevant boxes. The password you enter will be encrypted to ensure it is safe. To view the password you entered, you can click on the eye to show/hide it.
+Entering your information in the boxes for the name, surname and password is quite simple: You only type it on the line below the relevant text. For the birthdate however, it is a bit more complicated: A date-time picker is used to ensure that you enter the date in the correct format. You can either just enter the date in the format: YYYY/MM/DD, or click on the calendar icon to select the date with an interface. You should not enter any spaces in any of the fields!
+
+Ensure that you have entered information in all of the components before clicking the blue Sign Up button, or else you will get an error message preventing you from completing the sign-up.
+When you click the sign-up button, the program will complete several checks to ensure it can store your information without issue. The program generates a username in the following format:
+Name+Surname+Age when signing up
+
+If you get an error message saying that the generated username is already in the database, it means that you either already have an account (so rather go log in), or that someone else with the same name, surname and age have signed up. To get around this error, you must add or remove a character in your name or surname to ensure it is unique. 
+
+After the program stored your information successfully, you will get a confirmation message with your generated username, and the program will automatically take you to the login screen. There you can log in with the username that has just been shown to you, and password you entered when signing up.
+
+Teachers: If you are a teacher in the programs teacher list (which the admin can change in the Teachers.txt file), you should get a message after signup asking if you want to be a tournament manager or viewer. Select the option you prefer. Viewers cannot manage the tournament, and organisers cannot enter the tournament. Please keep this in mind. 
+

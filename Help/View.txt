@@ -1,0 +1,17 @@
+VIEWING YOUR ITEM:
+
+When you have entered your item, you will no longer be able to interact with the Enter item screen. The Enter item screen will just inform you that you have already entered by showing your item code.
+
+When you are on the View item screen, it will show you all of the information linked with the item you entered. Below is a summary of the information it shows you:
+
+USERNAME: Your username which is linked to the item code.
+ITEM CODE: This code is unique to you. It is used by the organisers and the program to easily identify your item. It is in the format: First three letters of your item (Uppercase), and then a number representing which entry you are. The first entry will get number 01.
+ITEM NAME: The item name that represents what you will perform. This will be printed on schedules and results
+MOST RECENT SCORE: Shown as a percentage. This is the most recent score you received. It will show a different message if you have not participated yet.
+LAST ROUND PARTICIPATED: When you get a score, the program updates this to the round where the score was given. It will show a different message if you have not participated yet.
+STILL PARTICIPATING? This will be Yes if you havent been eliminated. It will also show you when you will participate in the next round if a schedule has already been created. If you have been eliminated, this will be No.
+AMOUNT OWED: The amount you still owe. The tournament tariff is R250 per round participated. Pay right after you participated at the judges table to ensure it gets saved in the database.
+LATEST COMMENTS: The comments you received in your last round. 
+
+The program is intelligent and stores your previous scores and comments on the computers hard disk. Speak to an organiser to see the history of your scores and comments. If you think theres a mistake, talk to an organiser who will help you resolve the issue.
+

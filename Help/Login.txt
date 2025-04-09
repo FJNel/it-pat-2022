@@ -1,0 +1,11 @@
+LOGGING IN:
+
+You need to log in to access your item and its relevant information. If you havent entered an item yet, you can also do so when logging in.
+Enter the username that was shown to you during signup, and password you entered when signing up. There is no way to recover your password if you forget it without an admin. Your username however is easy to determine. It is stored in the following format: 
+Name+Surname+Age when signing up
+
+Ensure that you have entered information on both lines before clicking the blue Login button, or else you will get an error message preventing you from logging in.
+When you click the blue Login button, the program will perform multiple checks to ensure that the information you entered corresponds with each other. The program will show you an appropriate error message telling you what part is wrong if they do not correspond. If you have forgot your password, contact an admin.
+
+If the information you entered corresponds with each other, you will get a message welcoming you. Depending on your user type, you will either be taken to the view or manage form.
+

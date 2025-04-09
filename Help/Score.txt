@@ -1,0 +1,15 @@
+2. SCORE THE PARTICIPANTS
+
+This screen is of real importance. Without it, the program will not be able to be used properly. It allows you to enter the scores each participant receives after their performance. 
+The table in the middle is the Database grid. It is not recommended to move the pointer, or edit any values in this grid except when you know what you are doing.
+
+To start, get the latest rounds schedule out. You will need it. Go to the Schedule screen to create a schedule for the round if you havent already or go to the program files to print the schedule. A schedule isnt necessary but highly recommended.
+Now, start by entering the first item code on the schedule on the Item Code line. Also enter the schedules round using the spin edit. If this is the first participant being scored, click the blue Start Scoring button. If you used the schedule before you, you should not receive any error messages.
+
+**Repeat from HERE** Once you clicked the blue Start Scoring button, the participants information will be loaded into the labels, and a message will be displayed that says you can now start scoring this participant. The participants name and item name are loaded, as well as their Start and End time. The Start and End time is there to help you make sure you arent falling behind schedule.
+Now, score the participant: 
+In the bottom left use the spin edit to input the score from 1 to 100. Then, to the right of the spin edit, theres a box where you can enter the comments that the participant received. After you have entered the comments, you can enter how much the participant has paid today. The program will automatically add this to the total amount the participant has paid. Click on the blue Submit button to submit their score, comments and amount paid. 
+
+Now, you can click the blue Next button. As the program is intelligent, it will automatically fill and determine the next Item Code. We recommend to verify that the new item code corresponds with the next item code on the printed schedule. You can now click the blue Start Scoring button. Go to the **Repeat from HERE** marker above until all of the participants have been scored. 
+
+After all of the participants in the schedule are scored, you can go to the next screen to retrieve the results.
